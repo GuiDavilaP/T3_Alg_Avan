@@ -1,0 +1,26 @@
+# Build directories
+bin/
+obj/
+
+# Test directories
+test/
+
+# Python virtual environment
+venv/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Compiled files
+*.o
+*.out
+*.exe
+
+# Temporary files
+*.tmp
+*~
